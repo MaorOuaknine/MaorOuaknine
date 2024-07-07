@@ -14,12 +14,13 @@
 I work with various programming languages:
 
 - C
+- C#
 - Java
 - Assembly
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/raphael-haddad/)
+- [LinkedIn]([https://www.linkedin.com/in/maor-ouaknine-393432318/])
 - [GitHub](https://github.com/Raphaelhdd)
 
 ## 🚀 What I'm Learning
@@ -33,6 +34,7 @@ Currently, I'm exploring security vulnerabilities in websites and working on a m
 
 ### Backend
 - C
+- C#
 - Java
 
 ### Languages
