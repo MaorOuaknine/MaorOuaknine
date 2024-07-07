@@ -21,7 +21,7 @@ I work with various programming languages:
 ## 🌐 Connect with Me
 
 - [LinkedIn]([https://www.linkedin.com/in/maor-ouaknine-393432318/])
-- [GitHub](https://github.com/Raphaelhdd)
+- [GitHub](https://github.com/MaorOuaknine)
 
 ## 🚀 What I'm Learning
 
